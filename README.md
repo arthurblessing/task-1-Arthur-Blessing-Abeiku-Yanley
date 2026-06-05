@@ -1,2 +1,2 @@
 # task-1-Arthur-Blessing-Abeiku-Yanley
-Repository for task 1
+Economics Class registration form — built with HTML
